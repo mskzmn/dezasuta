@@ -33,13 +33,13 @@ ul {
 }
 
 img {
-    max-width: 100%;
+    width: 100%;
     vertical-align: bottom;
     border: none;
 }
 
 
-div{
+.servisemenu{
     background-color: #eeeeee;
     margin: 0 auto;
     padding: 50px;
@@ -85,7 +85,8 @@ ul li{
     ul{
         display: block;
     }
-    img{
-        width: 100%;
+
+    ul li{
+        max-width: 100%;
     }
 }
