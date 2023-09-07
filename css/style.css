@@ -78,7 +78,7 @@ ul li{
     line-height: 1.5;
 }
 
-@media screen and (max-width:400px){
+@media screen and (max-width:767px){
     h1{
         display: block;
     }
@@ -88,5 +88,6 @@ ul li{
 
     ul li{
         max-width: 100%;
+
     }
 }
